@@ -40,7 +40,7 @@
         "description": "Menu item to switch to the slider monitor"
     },
     "gui.cards.remove": {
-        "message": "Remove",
+        "message": "Close",
         "description": "Title for button to close how-to card"
     },
     "gui.unsupportedBrowser.description": {
